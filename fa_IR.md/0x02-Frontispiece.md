@@ -1,0 +1,56 @@
+# درباره‌ی استاندارد
+
+<img src="images/OWASP_logo.png" title="OWASP LOGO" />
+
+به نسخه‌ی 1.1 استاندارد وارسی امنیت اپلیکیشن‌های موبایل (MASVS) خوش‌آمدید. این استاندارد، تلاشی جمعی به‌منظور ایجاد یک چارچوب از الزامات امنیتی موردنیاز در طراحی، توسعه و آزمون امن برنامه‌های کاربردی موبایل برای اندروید و iOS است.
+
+MASVS نقطۀ اوج تلاش جامعه و بازخوردی از صنعت است. ما انتظار داریم این استاندارد به‌مرورزمان تکامل یابد و از بازخورد جامعه نسبت به آن استقبال می‌کنیم. 
+
+بهترین راه تماس با ما از طریق کانال OWASP Mobile Project در Slack می‌باشد: <https://owasp.slack.com/messages/project-mobile_omtg/details/>.
+
+حساب‌ها می‌توانند در URL زیر ایجاد شوند: [https://owasp-slack.herokuapp.com/](https://owasp-slack.herokuapp.com/).
+
+## حق نشر و پروانۀ استفاده
+
+[<img src="images/CC-license.png" title="License" width="200px" height="45px" />](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Copyright © 2020 The OWASP Foundation.This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). For any reuse or distribution, you must make clear to others the license terms of this work.
+
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+## قدردانی‌ها
+
+| مدیر پروژه | مؤلف اصلی | مشارکت‌کنندگان و بازرسان
+| ------- | --- | ----------------- |
+| Sven Schleier ،Jeroen Willemsen و Carlos Holguera | Bernhard Mueller | Alexander Antukh ،Mesheryakov Aleksey ،Bachevsky Artem ،Jeroen Beckers، Vladislav Chelnokov، Ben Cheney، Peter Chi، Lex Chien، Stephen Corbiaux Manuel Delgado، Ratchenko Denis، Ryan Dewhurst، Tereshin Dmitry، Christian Dong، Oprya Egor، Ben Gardiner، Rocco Gränitz، Henry Hu، Sjoerd Langkemper، Vinícius Henrique Marangoni، Martin Marsicano، Roberto Martelloni، Gall Maxim، Eugen Martynov، Riotaro Okada، Abhinav Sejpal، Stefaan Seys، Yogesh Sharma، Prabhant Singh، Sven Schleier، Nikhil Soni، Anant Shrivastava، Francesco Stillavato، Romuald Szkudlarek، Abderrahmane Aftahi، Abdessamad Temmar، Koki Takeyama،  Chelnokov Vladislav و Leo Wang |
+
+<br/>
+
+| زبان | مترجمان و داوران  |
+| --- | ------------------------------ |
+| چینی (سنتی) | Peter Chi و Lex Chien ،Henry Hu ،Leo Wang |
+| چینی (ساده‌شده) | Bob Peng ،Harold Zang و Jack S |
+| فرانسوی | Romuald Szkudlarek ،Abderrahmane Aftahi و Christian Dong (بازبینی) |
+| آلمانی | Rocco Gränitz و Sven Schleier (بازبینی) |
+| ژاپنی | Koki Takeyama و Riotaro Okada (بازبینی) |
+| کره‌ای | Youngjae Jeon ،Jeongwon Cho ،Jiyou Han ،Jiyeon Sung |
+| روسی | Gall Maxim، Eugen Martynov و Chelnokov Vladislav (بازبینی)، Oprya Egor (بازبینی)، Tereshin Dmitry (بازبینی) |
+| اسپانیایی | Martin Marsicano ،Carlos Holguera |
+
+این سند به‌عنوان شاخه‌ای از استاندارد وارسی امنیت اپلیکیشن OWASP نوشته‌شده توسط Jim Manico آغاز شد.
+
+## حامیان
+
+بااینکه هر دو استاندارد MASVS و MSTG به‌طور داوطلبانه توسط جامعه تولید و نگه‌داری شدند، گاهی اوقات مقداری کمک از خارج از این جامعه احتیاج است. ازاین‌رو از حامیانمان برای فراهم آوردن بودجه برای استخدام ویراستیارهای فنی تشکر می‌کنیم. توجه داشته باشید که حمایت آنها محتوای MASVS یا MSTG را به هیچ نحوۀ تحت تأثیر قرار نداده است. بسته‌های حمایتی مذکور در [OWASP Project Wiki] شرح داده‌شده‌اند. (https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide#tab=Sponsorship_Packages "OWASP Mobile Security Testing Guide Sponsorship Packages")
+
+### Honourable Benefactor
+
+[<img src="images/NowSecure_logo.png" title="NowSecure" width="200px" height="58px" />](https://www.nowsecure.com/ "NowSecure")
+
+### Good Samaritan Benefactor
+
+[<img src="images/Randorisec_logo.png" title="Randorisec" width="200px" height="58px" />](https://www.randorisec.fr/ "RandoriSec")
+
+در ادامه، مایل هستیم از OWASP Bay Area Chapter بابت حمایتشان تشکر کنیم. در آخر، مایل هستیم از هر کسی که با خرید کتاب این استاندارد از Leanpub، از ما حمایت کرده است، تشکر کنیم.
